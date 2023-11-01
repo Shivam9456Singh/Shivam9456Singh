@@ -14,8 +14,6 @@
 [Tech Surf organized by ContentStack (2023) 👾🤖🔥](https://drive.google.com/file/d/1edfAdguoYoBfr1AE7ketUW0Fwn2TbUtq/view?usp=drive_link)<br><br>
 [Xiaomi OdetoCode 3.0 (2023) 🔥🤖👾](https://drive.google.com/file/d/1dWd4M73coIJBVPAkRraXvqFMGmIVoLYh/view?usp=drive_link)<br><br>
 
-[techsurf.pdf](https://github.com/Shivam9456Singh/Shivam9456Singh/files/13223692/techsurf.pdf)
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shivam9456Singh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
