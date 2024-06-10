@@ -1,5 +1,5 @@
 # 👋 Hello Folks!
-This is **Shivam Kumar Singh** ( Graduated from IIT Indore ).<br><br>Recently completed studies at the **Indian Institute of Technology Indore**, honing my skills and knowledge in the field of technology.<br><br>
+This is **Shivam Kumar Singh** ( Graduated from IIT Indore in May 2024 ).<br><br>Recently completed studies at the **Indian Institute of Technology Indore**, honing my skills and knowledge in the field of technology.<br><br>
 In addition to my academic endeavors, I am also cultivating a career in software development, with a keen interest in designing and developing innovative software solutions.<br><br>
 Please feel free to reach out for collaborations or inquiries.<br><br><br>
 
